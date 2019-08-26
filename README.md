@@ -2,7 +2,7 @@
 
 ![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_nano_title.jpg)
 
-<script src="https://embed.github.com/view/3d/ledroneclub/pickle_evo2_frame/blob/master/Pickle_evo2_nano_full_render.stl"></script>
+![Pickle Evo2 MK2](https://embed.github.com/view/3d/ledroneclub/pickle_evo2_frame/blob/master/Pickle_evo2_nano_full_render.stl)
 
 
 NOTE : this is an early prototype, for those willing to test.
