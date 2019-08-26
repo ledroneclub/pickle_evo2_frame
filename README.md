@@ -1,12 +1,12 @@
 # Pickle Evo2 MK2 Nano
 
-![Pickle Evo2 MK2](https://github.com/ledroneclub/frames/blob/master/pickle_evo2/gfx/Pickle_Evo2_nano_title.jpg)
+![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_nano_title.jpg)
 ![Pickle EVO2 MK2 Nano STL view](https://embed.github.com/view/3d/ledroneclub/frames/master/pickle_evo2/Pickle_evo2_nano_full_render.stl)
 
 
 NOTE : this is an early prototype, for those willing to test.
 
-Here's the new version of the Pickle Evo frame. The so called Evo2. The first version was quite bad so i remade à MK2 focused on the new nano HD cameras that are coming out right now.
+Here's the new version of the Pickle Evo frame. The so called Evo2. The first version was quite bad so I remade à MK2 focused on the new nano HD cameras that are coming out right now.
 
 It would probably also fit a 19x19 but that was not the goal :)
 
@@ -27,7 +27,7 @@ You also need to get the camera holder printed (TPU should be the best option).
 
 ## Frame renders
 
-![Render 1](https://github.com/ledroneclub/frames/blob/master/pickle_evo2/gfx/Pickle_evo2_nano_render1.png)
+![Render 1](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_evo2_nano_render1.png)
 
 ## Recommended setup (the one i'm currently aiming for this frame)
 
