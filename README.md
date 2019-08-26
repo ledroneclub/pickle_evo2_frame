@@ -1,7 +1,8 @@
 # Pickle Evo2 MK2 Nano
 
 ![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_nano_title.jpg)
-![Pickle EVO2 MK2 Nano STL view](https://embed.github.com/view/3d/ledroneclub/frames/master/pickle_evo2/Pickle_evo2_nano_full_render.stl)
+
+<script src="https://embed.github.com/view/3d/ledroneclub/pickle_evo2_frame/blob/master/Pickle_evo2_nano_full_render.stl"></script>
 
 
 NOTE : this is an early prototype, for those willing to test.
