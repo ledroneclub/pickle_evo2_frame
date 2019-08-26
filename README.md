@@ -1,15 +1,14 @@
 # Pickle Evo2 MK2 Nano
 
+Pickle Evo2 MK2 Nano is a micro quadcopter frame fitting 3 inch propeller and focused on nano HD cameras.
+
 ![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_nano_title.jpg)
 
-![Pickle Evo2 MK2](https://embed.github.com/view/3d/ledroneclub/pickle_evo2_frame/blob/master/Pickle_evo2_nano_full_render.stl)
+You may follow me on [Instagram](https://www.instagram.com/ledrone.club/) and [YouTube](https://www.youtube.com/channel/UCapTPmZgBj52TmWORFjEoqg)
 
+NOTE : this is an early prototype, for those willing to test mainly, first version was removed as quite inconvenient to build.
 
-NOTE : this is an early prototype, for those willing to test.
-
-Here's the new version of the Pickle Evo frame. The so called Evo2. The first version was quite bad so I remade à MK2 focused on the new nano HD cameras that are coming out right now.
-
-It would probably also fit a 19x19 but that was not the goal :)
+The Evo2 frame would probably also fit a 19x19 but that was not the goal of this design :)
 
 * 3 inch props (115mm wheelbase).
 * Squish layout (props out of camera view).
@@ -40,6 +39,9 @@ You also need to get the camera holder printed (TPU should be the best option).
 
 
 ## Changelog
+
+* 2019-08-26
+ * migrated on GitHub
 
 * 2019-08-23
  * Added the MK2/nano version
