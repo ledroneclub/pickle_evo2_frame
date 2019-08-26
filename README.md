@@ -18,9 +18,17 @@ The Evo2 frame would probably also fit a 19x19 but that was not the goal of this
 * TPU printed camera mount (14x14/HD format).
 * Cutout for the USB port of aio boards (no need to flip the board & remap the motors)
 
-You can get the frame cut at https://www.cncmadness.com, I recommend to go with a 3mm bottom plate and 1.5mm top plate.
+## How to get this frame ?
 
-You'll need some extra parts :
+You have to make it cut at a CNC Cutting service, here's some recommended ones.
+
+* https://www.cncmadness.com (US/CA)
+* https://www.ahltec.de (EU)
+
+Get the files in the ```dxf_for_cnc_cutting``` folder (dxf files) and send them to the services mentionned above. I recommend to go with a 3mm bottom plate and 1.5mm top plate.
+
+
+You'll need some extra mounting parts for the frame :
 - 20mm M2 aluminium standoffs (4 pieces) + M2 screws.
 
 You also need to get the camera holder printed (TPU should be the best option).
@@ -41,7 +49,7 @@ You also need to get the camera holder printed (TPU should be the best option).
 ## Changelog
 
 * 2019-08-26
- * migrated on GitHub
+ 	* migrated on GitHub
 
 * 2019-08-23
  * Added the MK2/nano version
