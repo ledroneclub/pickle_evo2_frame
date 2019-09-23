@@ -3,7 +3,7 @@
 Pickle Evo2 ~~MK2~~ MK3 Nano is a micro quadcopter frame fitting 3 inch propeller and focused ~~on nano HD cameras~~ modularity. The base is a deadcat structure that can be flown as is (a 3 inch deadcat PicklePick) but it can host different adapter plates.
 The first one coming along the frame is intended to bear an HD nano camera.
 
-![Pickle Evo2 MK2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_nano_title.jpg)
+![Pickle Evo2 MK3](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_Evo2_mk3_title.jpg)
 
 You may follow me on [Instagram](https://www.instagram.com/ledrone.club/) and [YouTube](https://www.youtube.com/c/ledroneclub/)
 
