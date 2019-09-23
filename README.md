@@ -11,17 +11,15 @@ NOTE : this is an early prototype, for those willing to test mainly, first versi
 
 The Evo2 frame would probably also fit a 19x19 but that was not the goal of this design :)
 
-~~
-#### EVO2 MK2 version -- obsolete
 
-* 3 inch props (115mm wheelbase).
-* Squish layout (props out of camera view).
-* Dual-plate design with unibody bottom plate.
-* whoop, 16x16 and 20x20 stacks mount pattern.
-* 9mm-12mm 4 hole motor mounts.
-* TPU printed camera mount (14x14/HD format).
-* Cutout for the USB port of aio boards (no need to flip the board & remap the motors)
-~~
+~~#### EVO2 MK2 version~~ -- obsolete
+~~* 3 inch props (115mm wheelbase).~~
+~~* Squish layout (props out of camera view).~~
+~~* Dual-plate design with unibody bottom plate.~~
+~~* whoop, 16x16 and 20x20 stacks mount pattern.~~
+~~* 9mm-12mm 4 hole motor mounts.~~
+~~* TPU printed camera mount (14x14/HD format).~~
+~~* Cutout for the USB port of aio boards (no need to flip the board & remap the motors)~~
 
 #### EVO2 MK3 version
 
