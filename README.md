@@ -48,7 +48,7 @@ You also need to get the camera holder printed (TPU should be the best option).
 
 ## Frame renders
 
-![MK3 Render 2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_evo2_MK3_render2.png)
+![MK3 Render 2](https://github.com/ledroneclub/pickle_evo2_frame/blob/master/gfx/Pickle_evo2_nano_MK3_render2.png)
 
 ## Recommended setup (the one i'm currently aiming for this frame)
 
